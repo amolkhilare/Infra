@@ -1,10 +1,16 @@
 public class Test{
 	public static void main(String args[]){
 		system.out.println("Hii A");
+		system.out.println("Hii B");
+		system.out.println("Hii C");
 	}
+
 
 	void show(){
 	
 
 	}
 }
+
+}
+
